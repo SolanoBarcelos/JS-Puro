@@ -4,7 +4,7 @@
 
 #### Pagina Calculadora:
 
-###### Pagina para exercitar operadores matemáticos e logicos, SwitchCase, prompt(), alert(), Number(), TemplateStrings e funções.
+###### Pagina para exercitar operadores matemáticos e lógicos, SwitchCase, prompt(), alert(), Number(), TemplateStrings e funções.
 
 
 
