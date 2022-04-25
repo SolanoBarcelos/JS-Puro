@@ -2,9 +2,13 @@
 
 ## Informações do projeto  
 
-#### Pagina Calculadora:
+#### Calculadora:
 
-###### Pagina para exercitar operadores matemáticos e logicos, SwitchCase, prompt(), alert(), Number(), TemplateStrings e funções.
+###### Projeto para exercitar operadores matemáticos e lógicos, SwitchCase, prompt(), alert(), Number(), TemplateStrings e funções.
+
+#### Outros exercícios
+
+###### Ecercícios com Arrays, replace, Date, Laços de Repetição.
 
 
 

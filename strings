@@ -1,0 +1,60 @@
+// função usando replace para substituir um strig por uma entrada do usuario:
+// function ola () {
+//   let nome = prompt(`Qual o seu nome?`);
+
+//   let bemVindo = "Bem vindo João";
+
+//   alert( bemVindo.replace('João', nome));
+ 
+// }
+
+// ola();
+
+
+
+
+// Recursos de Arrays:
+// var nome = "Solano";
+
+// var lista = ["João", "Luciano", "Pedro", nome];
+// console.log(lista);
+// console.log(lista[3]);
+// lista.push("Marcelo");
+// console.log(lista);
+// lista.pop()
+// console.log(lista);
+// console.log(lista.length);
+// console.log(lista.reverse())
+// console.log(lista.toString()[0])
+// console.log(lista.join(" * "))
+
+// var pessoa = {Nome:"Solano", Cidade:"Contagem-MG"};
+// console.log(pessoa);
+// console.log(pessoa.Cidade);
+
+// var pessoas = [{Nome:"Solano", Cidade:"Contagem"},{Nome:"Caio", Cidade:"Brasilândia"}]
+// console.log(pessoas[1].Nome);
+
+// Estruturas de repetição:
+// var contador = 0;
+// while (contador <= 5) {
+//     console.log(contador);
+//     // contador = contador + 1;
+//     contador++;
+// }
+// var contador;
+// for( contador = 0; contador <= 5; contador++ ){
+//     console.log(contador)
+// };
+
+// Função para exercitar conceitos de Date:
+// function idade () {
+//     let anoNascimento = Number(prompt("Qual o ano do seu nascimento? Ex.:1990"));
+//     let dataAtual = new Date;
+//     let anoAtual = dataAtual.getFullYear();
+
+//     alert (`Sua idade é ${anoAtual - anoNascimento}.`);
+// }
+
+// idade();
+
