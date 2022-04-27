@@ -1,21 +1,27 @@
-function clicou () {
-    // document.getElementById("obrigado").innerHTML = "Obrigado por clicar!";
-    // }
 
-    window.open("https://www.linkedin.com/in/solanobarcelos/");
+function clicou () {
+
+    window.open("https://www.linkedin.com/in/solanobarcelos/")
     // window.location.href="https://www.linkedin.com/in/solanobarcelos/";
 }
 
-clicou();
 
-function trocar () {
-    document.getElementById("obrigado").innerHTML = "Você passou o mouse, obrigado!"
+function trocar (elemento) {
+    // document.getElementById("obrigado").innerHTML = "Você passou o mouse, obrigado!"
+    elemento.innerHTML = "Você passou o mouse, obrigado!"
 }
 
-trocar();
 
-function voltar() {
-    document.getElementById("obrigado").innerHTML = "Passe o mouse aqui!"
+
+function voltar(elemento) {
+    // document.getElementById("obrigado").innerHTML = "Passe o mouse aqui!"
+    elemento.innerHTML = "Passe o mouse aqui!"
 }
 
-voltar();
+function carregou() {
+    alert("Pagina Carregada")
+}
+
+function funcaoChange(elemento) {
+    console.log(elemento.value)
+}
